@@ -24,13 +24,13 @@ Homebrew でもインストールできるようです。(今回は上記 go get
 - go-plus
 - atom-runner
 
-## コンパイルと実行
+## 備忘録
+
+### コンパイルと実行
 ```bash
 $ go run filename
 ```
 Atom 上で実行する場合、Ctrl+R で atom-runner が起動します。
-
-## 備忘録
 
 ### gotour
 
