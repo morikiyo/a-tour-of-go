@@ -30,7 +30,8 @@ Homebrew でもインストールできるようです。(今回は上記 go get
 ```bash
 $ go run filename
 ```
-Atom 上で実行する場合、Ctrl+R で atom-runner が起動します。
+Atom 上で実行する場合、Ctrl+R で Atom-Runner が起動します。  
+中断は Atom Runner のタブをクリックした後 Ctrl+Shift+C です。
 
 ### gotour
 
